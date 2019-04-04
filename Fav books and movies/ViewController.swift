@@ -13,7 +13,7 @@ class ViewController: UIViewController, UITableViewDataSource {
     var booksLoaded = false
     var booksOrMovies = 1
     
-    var favMovies = ["La La Land", "The Help", "Harry Potter and the Goblet of Fire", "Harry Potter and the Half-Blood Prince"]
+    var favMovies = ["La La Land", "The Help", "Harry Potter and the Goblet of Fire", "Harry Potter and the Half-Blood Prince", "Mamma Mia"]
     var favBooks = ["1984", "Cold Mountain", "Harry Potter and the Prisoner of Azkaban",]
     
     
